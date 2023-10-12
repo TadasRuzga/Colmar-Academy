@@ -237,9 +237,11 @@ font-size: 40px;
 
 .first-article .article-container {
   display: flex;
+  justify-content: center;
   flex-direction: column;
   align-items: center;
   margin: auto;
+  height: 1000px;
 }
 
 .article-container .box1 img {
@@ -297,16 +299,14 @@ font-size: 40px;
 
 
 
-.boxes-container
-
 .head {
-  margin: 32px 0px;
+  margin: 24px 0px;
   font-size: 40px;
 }
 
 .para {
   padding-bottom: 24px;
-  width: 300px;
+  width: 350px;
 }
 
 .second-section { 
